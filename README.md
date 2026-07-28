@@ -237,34 +237,32 @@ Full-stack application for managing student records through a structured backend
 
 <p align="center">
   <img
-    width="48%"
-    src="https://github-readme-stats-eight-theta.vercel.app/api?username=ahsenelmas&show_icons=true&theme=github_dark&hide_border=true&include_all_commits=true&count_private=true"
+    width="49%"
+    src="https://github-readme-stats.vercel.app/api?username=ahsenelmas&show_icons=true&theme=transparent&hide_border=true&rank_icon=github&include_all_commits=true&count_private=true&cache_seconds=86400"
     alt="Ahsen's GitHub statistics"
   />
   <img
-    width="48%"
-    src="https://streak-stats.demolab.com/?user=ahsenelmas&theme=github-dark-blue&hide_border=true"
+    width="49%"
+    src="https://streak-stats.demolab.com?user=ahsenelmas&theme=transparent&hide_border=true&border_radius=10&date_format=M%20j%5B%2C%20Y%5D"
     alt="Ahsen's GitHub streak"
   />
 </p>
 
 <p align="center">
   <img
-    width="44%"
-    src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=ahsenelmas&langs_count=8&layout=compact&theme=github_dark&hide_border=true"
-    alt="Ahsen's most used languages"
+    width="45%"
+    src="https://github-readme-stats.vercel.app/api/top-langs/?username=ahsenelmas&layout=compact&langs_count=8&theme=transparent&hide_border=true&cache_seconds=86400"
+    alt="Ahsen's most used programming languages"
   />
 </p>
 
 <p align="center">
   <img
-    width="94%"
-    src="https://github-readme-activity-graph.vercel.app/graph?username=ahsenelmas&theme=github-compact&hide_border=true&radius=8"
-    alt="Ahsen's GitHub activity graph"
+    width="96%"
+    src="https://github-readme-activity-graph.vercel.app/graph?username=ahsenelmas&bg_color=0d1117&color=58a6ff&line=58a6ff&point=c9d1d9&area=true&area_color=1f6feb&hide_border=true&radius=10"
+    alt="Ahsen's GitHub contribution graph"
   />
 </p>
-
----
 
 ## Connect with Me
 
