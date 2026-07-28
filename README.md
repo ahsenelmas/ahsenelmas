@@ -237,30 +237,30 @@ Full-stack application for managing student records through a structured backend
 
 <p align="center">
   <img
-    width="49%"
-    src="https://github-readme-stats.vercel.app/api?username=ahsenelmas&show_icons=true&theme=transparent&hide_border=true&rank_icon=github&include_all_commits=true&count_private=true&cache_seconds=86400"
+    width="48%"
+    src="https://github-readme-stats-eight-theta.vercel.app/api?username=ahsenelmas&show_icons=true&include_all_commits=true&count_private=true&theme=tokyonight&hide_border=true&border_radius=12"
     alt="Ahsen's GitHub statistics"
   />
   <img
-    width="49%"
-    src="https://streak-stats.demolab.com?user=ahsenelmas&theme=transparent&hide_border=true&border_radius=10&date_format=M%20j%5B%2C%20Y%5D"
+    width="48%"
+    src="https://streak-stats.demolab.com?user=ahsenelmas&theme=tokyonight&hide_border=true&border_radius=12&date_format=M%20j%5B%2C%20Y%5D"
     alt="Ahsen's GitHub streak"
   />
 </p>
 
 <p align="center">
   <img
-    width="45%"
-    src="https://github-readme-stats.vercel.app/api/top-langs/?username=ahsenelmas&layout=compact&langs_count=8&theme=transparent&hide_border=true&cache_seconds=86400"
-    alt="Ahsen's most used programming languages"
+    width="46%"
+    src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=ahsenelmas&langs_count=8&layout=compact&theme=tokyonight&hide_border=true&border_radius=12"
+    alt="Ahsen's programming languages"
   />
 </p>
 
 <p align="center">
   <img
-    width="96%"
-    src="https://github-readme-activity-graph.vercel.app/graph?username=ahsenelmas&bg_color=0d1117&color=58a6ff&line=58a6ff&point=c9d1d9&area=true&area_color=1f6feb&hide_border=true&radius=10"
-    alt="Ahsen's GitHub contribution graph"
+    width="94%"
+    src="https://github-readme-activity-graph.vercel.app/graph?username=ahsenelmas&bg_color=1a1b27&color=70a5fd&line=70a5fd&point=bf91f3&area=true&area_color=2a2d47&hide_border=true&radius=12"
+    alt="Ahsen's GitHub activity graph"
   />
 </p>
 
