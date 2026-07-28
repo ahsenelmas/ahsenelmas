@@ -116,7 +116,7 @@ Multilingual university assistant combining web scraping, embeddings, PostgreSQL
   <img src="https://img.shields.io/badge/Playwright-2EAD33?style=flat-square&logo=playwright&logoColor=white" alt="Playwright" />
 </p>
 
-<a href=["https://github.com/ahsenelmas?tab=repositories"](https://github.com/ahsenelmas/ATA-RAG)>
+<a href="https://github.com/ahsenelmas/ATA-RAG">
   <img
     src="https://img.shields.io/badge/View_Project-181717?style=for-the-badge&logo=github&logoColor=white"
     alt="View ATA RAG Assistant"
