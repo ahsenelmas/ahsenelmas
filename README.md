@@ -312,10 +312,6 @@ Full-stack application for managing student records through a structured backend
 
 <br>
 
-<p align="center">
-  <img
-    src="https://capsule-render.vercel.app/api?type=waving&color=0:0D1117,45:0E75B6,100:00C7C7&height=140&section=footer&text=Let's%20build%20something%20useful.&fontSize=19&fontColor=ffffff&animation=fadeIn&fontAlignY=72"
-    width="100%"
-    alt="Let's build something useful"
-  />
-</p>
+<div align="center">
+  <img src="https://user-images.githubusercontent.com/74038190/212284115-f47cd8ff-2ffb-4b04-b5bf-4d1c14c0247f.gif" alt="Bottom Line" width="100%" />
+</div>
