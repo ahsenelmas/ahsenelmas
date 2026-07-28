@@ -136,7 +136,7 @@ Full-stack application for managing student records through a structured backend
   <img src="https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB" alt="React" />
 </p>
 
-<a href="https://github.com/ahsenelmas?tab=repositories">
+<a href="https://github.com/ahsenelmas/studentmanagementsystem">
   <img
     src="https://img.shields.io/badge/View_Project-181717?style=for-the-badge&logo=github&logoColor=white"
     alt="View Student Management System"
